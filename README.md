@@ -2,6 +2,9 @@
 <p align="center">
   <strong>Systems Engineering and Computer Science Student</strong>
 </p>
+<p align="center">
+  Web Development • Continuous Learning
+</p>
 <!--
 **Chloiim/Chloiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
