@@ -1,6 +1,7 @@
-## Hi there 👋 soy Jhonatan
-
-<h4 align="center">Estudiante de Ingeniería de Sistemas e Informática | Desarrollador Web | Backend</h4>
+## Hi there 👋 I'm Jhonatan
+<p align="center">
+  <strong>Systems Engineering and Computer Science Student</strong>
+</p>
 <!--
 **Chloiim/Chloiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
