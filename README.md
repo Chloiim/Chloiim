@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Jhonatan
 <p align="center">
-  <strong>Systems Engineering and Computer Science Student</strong>
-</p>
-<p align="center">
   Web Development • Continuous Learning
 </p>
 
